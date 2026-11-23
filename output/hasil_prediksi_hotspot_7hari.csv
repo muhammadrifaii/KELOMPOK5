@@ -1,0 +1,386 @@
+forecast_horizon_day,forecast_date,item_id,province,kabupaten,predicted_hotspot_mean,predicted_hotspot_median,quantile_10,quantile_90,risk_category
+1,2024-10-16,Aceh - Aceh Barat,Aceh,Aceh Barat,0.04,0.04,0.0,0.68,Rendah
+2,2024-10-17,Aceh - Aceh Barat,Aceh,Aceh Barat,0.37,0.37,0.0,1.17,Rendah
+3,2024-10-18,Aceh - Aceh Barat,Aceh,Aceh Barat,0.05,0.05,0.0,0.96,Rendah
+4,2024-10-19,Aceh - Aceh Barat,Aceh,Aceh Barat,0.04,0.04,0.0,1.06,Rendah
+5,2024-10-20,Aceh - Aceh Barat,Aceh,Aceh Barat,0.06,0.06,0.0,1.16,Rendah
+6,2024-10-21,Aceh - Aceh Barat,Aceh,Aceh Barat,0.07,0.07,0.0,1.26,Rendah
+7,2024-10-22,Aceh - Aceh Barat,Aceh,Aceh Barat,0.07,0.07,0.0,1.44,Rendah
+1,2024-10-16,Aceh - Aceh Jaya,Aceh,Aceh Jaya,0.0,0.0,0.0,0.01,Rendah
+2,2024-10-17,Aceh - Aceh Jaya,Aceh,Aceh Jaya,0.0,0.0,0.0,0.01,Rendah
+3,2024-10-18,Aceh - Aceh Jaya,Aceh,Aceh Jaya,0.0,0.0,0.0,0.01,Rendah
+4,2024-10-19,Aceh - Aceh Jaya,Aceh,Aceh Jaya,0.0,0.0,0.0,0.01,Rendah
+5,2024-10-20,Aceh - Aceh Jaya,Aceh,Aceh Jaya,0.0,0.0,0.0,0.01,Rendah
+6,2024-10-21,Aceh - Aceh Jaya,Aceh,Aceh Jaya,0.0,0.0,0.0,0.02,Rendah
+7,2024-10-22,Aceh - Aceh Jaya,Aceh,Aceh Jaya,0.0,0.0,0.0,0.02,Rendah
+1,2024-10-16,Aceh - Nagan Raya,Aceh,Nagan Raya,0.03,0.03,0.0,0.31,Rendah
+2,2024-10-17,Aceh - Nagan Raya,Aceh,Nagan Raya,0.04,0.04,0.0,0.36,Rendah
+3,2024-10-18,Aceh - Nagan Raya,Aceh,Nagan Raya,0.05,0.05,0.0,0.39,Rendah
+4,2024-10-19,Aceh - Nagan Raya,Aceh,Nagan Raya,0.04,0.04,0.0,0.4,Rendah
+5,2024-10-20,Aceh - Nagan Raya,Aceh,Nagan Raya,0.41,0.41,0.03,0.8,Rendah
+6,2024-10-21,Aceh - Nagan Raya,Aceh,Nagan Raya,0.04,0.04,0.0,0.44,Rendah
+7,2024-10-22,Aceh - Nagan Raya,Aceh,Nagan Raya,0.04,0.04,0.0,0.54,Rendah
+1,2024-10-16,Jambi - Muaro Jambi,Jambi,Muaro Jambi,1.06,1.06,0.0,4.12,Rendah
+2,2024-10-17,Jambi - Muaro Jambi,Jambi,Muaro Jambi,1.56,1.56,0.0,5.52,Rendah
+3,2024-10-18,Jambi - Muaro Jambi,Jambi,Muaro Jambi,1.64,1.64,0.0,6.27,Rendah
+4,2024-10-19,Jambi - Muaro Jambi,Jambi,Muaro Jambi,0.86,0.86,0.0,6.05,Rendah
+5,2024-10-20,Jambi - Muaro Jambi,Jambi,Muaro Jambi,2.52,2.52,0.0,8.22,Rendah
+6,2024-10-21,Jambi - Muaro Jambi,Jambi,Muaro Jambi,0.64,0.64,0.0,6.79,Rendah
+7,2024-10-22,Jambi - Muaro Jambi,Jambi,Muaro Jambi,1.26,1.26,0.0,8.2,Rendah
+1,2024-10-16,Jambi - Tanjung Jabung Barat,Jambi,Tanjung Jabung Barat,0.21,0.21,0.0,1.53,Rendah
+2,2024-10-17,Jambi - Tanjung Jabung Barat,Jambi,Tanjung Jabung Barat,0.21,0.21,0.0,1.88,Rendah
+3,2024-10-18,Jambi - Tanjung Jabung Barat,Jambi,Tanjung Jabung Barat,0.22,0.22,0.0,2.18,Rendah
+4,2024-10-19,Jambi - Tanjung Jabung Barat,Jambi,Tanjung Jabung Barat,0.97,0.97,0.0,3.17,Rendah
+5,2024-10-20,Jambi - Tanjung Jabung Barat,Jambi,Tanjung Jabung Barat,0.18,0.18,0.0,2.59,Rendah
+6,2024-10-21,Jambi - Tanjung Jabung Barat,Jambi,Tanjung Jabung Barat,0.17,0.17,0.0,2.75,Rendah
+7,2024-10-22,Jambi - Tanjung Jabung Barat,Jambi,Tanjung Jabung Barat,0.16,0.16,0.0,3.09,Rendah
+1,2024-10-16,Jambi - Tanjung Jabung Timur,Jambi,Tanjung Jabung Timur,0.1,0.1,0.0,1.26,Rendah
+2,2024-10-17,Jambi - Tanjung Jabung Timur,Jambi,Tanjung Jabung Timur,0.62,0.62,0.0,2.09,Rendah
+3,2024-10-18,Jambi - Tanjung Jabung Timur,Jambi,Tanjung Jabung Timur,0.16,0.16,0.0,1.86,Rendah
+4,2024-10-19,Jambi - Tanjung Jabung Timur,Jambi,Tanjung Jabung Timur,0.16,0.16,0.0,2.07,Rendah
+5,2024-10-20,Jambi - Tanjung Jabung Timur,Jambi,Tanjung Jabung Timur,0.15,0.15,0.0,2.23,Rendah
+6,2024-10-21,Jambi - Tanjung Jabung Timur,Jambi,Tanjung Jabung Timur,0.12,0.12,0.0,2.36,Rendah
+7,2024-10-22,Jambi - Tanjung Jabung Timur,Jambi,Tanjung Jabung Timur,0.17,0.17,0.0,2.72,Rendah
+1,2024-10-16,Jambi - Tebo,Jambi,Tebo,0.06,0.06,0.0,0.69,Rendah
+2,2024-10-17,Jambi - Tebo,Jambi,Tebo,0.04,0.04,0.0,0.83,Rendah
+3,2024-10-18,Jambi - Tebo,Jambi,Tebo,0.08,0.08,0.0,1.0,Rendah
+4,2024-10-19,Jambi - Tebo,Jambi,Tebo,0.02,0.02,0.0,1.05,Rendah
+5,2024-10-20,Jambi - Tebo,Jambi,Tebo,0.04,0.04,0.0,1.16,Rendah
+6,2024-10-21,Jambi - Tebo,Jambi,Tebo,0.1,0.1,0.0,1.3,Rendah
+7,2024-10-22,Jambi - Tebo,Jambi,Tebo,0.06,0.06,0.0,1.44,Rendah
+1,2024-10-16,Kalimantan Barat - Kayong Utara,Kalimantan Barat,Kayong Utara,0.16,0.16,0.0,0.9,Rendah
+2,2024-10-17,Kalimantan Barat - Kayong Utara,Kalimantan Barat,Kayong Utara,0.1,0.1,0.0,1.02,Rendah
+3,2024-10-18,Kalimantan Barat - Kayong Utara,Kalimantan Barat,Kayong Utara,0.68,0.68,0.0,1.74,Rendah
+4,2024-10-19,Kalimantan Barat - Kayong Utara,Kalimantan Barat,Kayong Utara,0.11,0.11,0.0,1.3,Rendah
+5,2024-10-20,Kalimantan Barat - Kayong Utara,Kalimantan Barat,Kayong Utara,0.08,0.08,0.0,1.37,Rendah
+6,2024-10-21,Kalimantan Barat - Kayong Utara,Kalimantan Barat,Kayong Utara,0.1,0.1,0.0,1.49,Rendah
+7,2024-10-22,Kalimantan Barat - Kayong Utara,Kalimantan Barat,Kayong Utara,0.58,0.58,0.0,2.16,Rendah
+1,2024-10-16,Kalimantan Barat - Ketapang,Kalimantan Barat,Ketapang,0.38,0.38,0.0,1.62,Rendah
+2,2024-10-17,Kalimantan Barat - Ketapang,Kalimantan Barat,Ketapang,0.23,0.23,0.0,1.75,Rendah
+3,2024-10-18,Kalimantan Barat - Ketapang,Kalimantan Barat,Ketapang,1.36,1.36,0.0,3.1,Rendah
+4,2024-10-19,Kalimantan Barat - Ketapang,Kalimantan Barat,Ketapang,0.15,0.15,0.0,2.06,Rendah
+5,2024-10-20,Kalimantan Barat - Ketapang,Kalimantan Barat,Ketapang,0.78,0.78,0.0,2.86,Rendah
+6,2024-10-21,Kalimantan Barat - Ketapang,Kalimantan Barat,Ketapang,0.33,0.33,0.0,2.56,Rendah
+7,2024-10-22,Kalimantan Barat - Ketapang,Kalimantan Barat,Ketapang,0.86,0.86,0.0,3.43,Rendah
+1,2024-10-16,Kalimantan Barat - Kubu Raya,Kalimantan Barat,Kubu Raya,0.0,0.0,0.0,0.38,Rendah
+2,2024-10-17,Kalimantan Barat - Kubu Raya,Kalimantan Barat,Kubu Raya,0.0,0.0,0.0,0.51,Rendah
+3,2024-10-18,Kalimantan Barat - Kubu Raya,Kalimantan Barat,Kubu Raya,0.0,0.0,0.0,0.6,Rendah
+4,2024-10-19,Kalimantan Barat - Kubu Raya,Kalimantan Barat,Kubu Raya,0.0,0.0,0.0,0.68,Rendah
+5,2024-10-20,Kalimantan Barat - Kubu Raya,Kalimantan Barat,Kubu Raya,0.0,0.0,0.0,0.76,Rendah
+6,2024-10-21,Kalimantan Barat - Kubu Raya,Kalimantan Barat,Kubu Raya,0.0,0.0,0.0,0.82,Rendah
+7,2024-10-22,Kalimantan Barat - Kubu Raya,Kalimantan Barat,Kubu Raya,0.01,0.01,0.0,0.92,Rendah
+1,2024-10-16,Kalimantan Barat - Mempawah,Kalimantan Barat,Mempawah,0.0,0.0,0.0,0.01,Rendah
+2,2024-10-17,Kalimantan Barat - Mempawah,Kalimantan Barat,Mempawah,0.0,0.0,0.0,0.01,Rendah
+3,2024-10-18,Kalimantan Barat - Mempawah,Kalimantan Barat,Mempawah,0.0,0.0,0.0,0.01,Rendah
+4,2024-10-19,Kalimantan Barat - Mempawah,Kalimantan Barat,Mempawah,0.0,0.0,0.0,0.01,Rendah
+5,2024-10-20,Kalimantan Barat - Mempawah,Kalimantan Barat,Mempawah,0.0,0.0,0.0,0.01,Rendah
+6,2024-10-21,Kalimantan Barat - Mempawah,Kalimantan Barat,Mempawah,0.0,0.0,0.0,0.02,Rendah
+7,2024-10-22,Kalimantan Barat - Mempawah,Kalimantan Barat,Mempawah,0.0,0.0,0.0,0.02,Rendah
+1,2024-10-16,Kalimantan Barat - Sambas,Kalimantan Barat,Sambas,0.0,0.0,0.0,0.01,Rendah
+2,2024-10-17,Kalimantan Barat - Sambas,Kalimantan Barat,Sambas,0.0,0.0,0.0,0.01,Rendah
+3,2024-10-18,Kalimantan Barat - Sambas,Kalimantan Barat,Sambas,0.0,0.0,0.0,0.01,Rendah
+4,2024-10-19,Kalimantan Barat - Sambas,Kalimantan Barat,Sambas,0.0,0.0,0.0,0.01,Rendah
+5,2024-10-20,Kalimantan Barat - Sambas,Kalimantan Barat,Sambas,0.0,0.0,0.0,0.01,Rendah
+6,2024-10-21,Kalimantan Barat - Sambas,Kalimantan Barat,Sambas,0.0,0.0,0.0,0.02,Rendah
+7,2024-10-22,Kalimantan Barat - Sambas,Kalimantan Barat,Sambas,0.0,0.0,0.0,0.02,Rendah
+1,2024-10-16,Kalimantan Barat - Sanggau,Kalimantan Barat,Sanggau,3.63,3.63,0.0,12.27,Rendah
+2,2024-10-17,Kalimantan Barat - Sanggau,Kalimantan Barat,Sanggau,9.24,9.24,0.0,20.5,Tinggi
+3,2024-10-18,Kalimantan Barat - Sanggau,Kalimantan Barat,Sanggau,6.98,6.98,0.0,20.2,Sedang
+4,2024-10-19,Kalimantan Barat - Sanggau,Kalimantan Barat,Sanggau,5.21,5.21,0.0,20.08,Sedang
+5,2024-10-20,Kalimantan Barat - Sanggau,Kalimantan Barat,Sanggau,6.6,6.6,0.0,23.03,Sedang
+6,2024-10-21,Kalimantan Barat - Sanggau,Kalimantan Barat,Sanggau,6.36,6.36,0.0,24.09,Sedang
+7,2024-10-22,Kalimantan Barat - Sanggau,Kalimantan Barat,Sanggau,4.33,4.33,0.0,24.12,Sedang
+1,2024-10-16,Kalimantan Selatan - Banjar,Kalimantan Selatan,Banjar,0.25,0.25,0.0,1.56,Rendah
+2,2024-10-17,Kalimantan Selatan - Banjar,Kalimantan Selatan,Banjar,1.09,1.09,0.0,2.75,Rendah
+3,2024-10-18,Kalimantan Selatan - Banjar,Kalimantan Selatan,Banjar,0.14,0.14,0.0,2.05,Rendah
+4,2024-10-19,Kalimantan Selatan - Banjar,Kalimantan Selatan,Banjar,0.19,0.19,0.0,2.32,Rendah
+5,2024-10-20,Kalimantan Selatan - Banjar,Kalimantan Selatan,Banjar,0.11,0.11,0.0,2.43,Rendah
+6,2024-10-21,Kalimantan Selatan - Banjar,Kalimantan Selatan,Banjar,0.77,0.77,0.0,3.27,Rendah
+7,2024-10-22,Kalimantan Selatan - Banjar,Kalimantan Selatan,Banjar,1.43,1.43,0.0,4.28,Rendah
+1,2024-10-16,Kalimantan Selatan - Barito Kuala,Kalimantan Selatan,Barito Kuala,0.05,0.05,0.0,0.74,Rendah
+2,2024-10-17,Kalimantan Selatan - Barito Kuala,Kalimantan Selatan,Barito Kuala,0.06,0.06,0.0,0.95,Rendah
+3,2024-10-18,Kalimantan Selatan - Barito Kuala,Kalimantan Selatan,Barito Kuala,0.46,0.46,0.0,1.51,Rendah
+4,2024-10-19,Kalimantan Selatan - Barito Kuala,Kalimantan Selatan,Barito Kuala,0.07,0.07,0.0,1.24,Rendah
+5,2024-10-20,Kalimantan Selatan - Barito Kuala,Kalimantan Selatan,Barito Kuala,0.02,0.02,0.0,1.31,Rendah
+6,2024-10-21,Kalimantan Selatan - Barito Kuala,Kalimantan Selatan,Barito Kuala,0.44,0.44,0.0,1.83,Rendah
+7,2024-10-22,Kalimantan Selatan - Barito Kuala,Kalimantan Selatan,Barito Kuala,0.44,0.44,0.0,2.02,Rendah
+1,2024-10-16,Kalimantan Selatan - Tanah Laut,Kalimantan Selatan,Tanah Laut,0.01,0.01,0.0,0.4,Rendah
+2,2024-10-17,Kalimantan Selatan - Tanah Laut,Kalimantan Selatan,Tanah Laut,0.01,0.01,0.0,0.53,Rendah
+3,2024-10-18,Kalimantan Selatan - Tanah Laut,Kalimantan Selatan,Tanah Laut,0.0,0.0,0.0,0.62,Rendah
+4,2024-10-19,Kalimantan Selatan - Tanah Laut,Kalimantan Selatan,Tanah Laut,0.0,0.0,0.0,0.69,Rendah
+5,2024-10-20,Kalimantan Selatan - Tanah Laut,Kalimantan Selatan,Tanah Laut,0.0,0.0,0.0,0.76,Rendah
+6,2024-10-21,Kalimantan Selatan - Tanah Laut,Kalimantan Selatan,Tanah Laut,0.01,0.01,0.0,0.83,Rendah
+7,2024-10-22,Kalimantan Selatan - Tanah Laut,Kalimantan Selatan,Tanah Laut,0.01,0.01,0.0,0.93,Rendah
+1,2024-10-16,Kalimantan Selatan - Tapin,Kalimantan Selatan,Tapin,0.53,0.53,0.0,2.15,Rendah
+2,2024-10-17,Kalimantan Selatan - Tapin,Kalimantan Selatan,Tapin,1.01,1.01,0.0,3.03,Rendah
+3,2024-10-18,Kalimantan Selatan - Tapin,Kalimantan Selatan,Tapin,1.48,1.48,0.0,3.79,Rendah
+4,2024-10-19,Kalimantan Selatan - Tapin,Kalimantan Selatan,Tapin,0.46,0.46,0.0,3.03,Rendah
+5,2024-10-20,Kalimantan Selatan - Tapin,Kalimantan Selatan,Tapin,1.35,1.35,0.0,4.14,Rendah
+6,2024-10-21,Kalimantan Selatan - Tapin,Kalimantan Selatan,Tapin,0.93,0.93,0.0,3.93,Rendah
+7,2024-10-22,Kalimantan Selatan - Tapin,Kalimantan Selatan,Tapin,0.91,0.91,0.0,4.33,Rendah
+1,2024-10-16,Kalimantan Tengah - Barito Selatan,Kalimantan Tengah,Barito Selatan,0.68,0.68,0.0,3.11,Rendah
+2,2024-10-17,Kalimantan Tengah - Barito Selatan,Kalimantan Tengah,Barito Selatan,1.21,1.21,0.0,4.32,Rendah
+3,2024-10-18,Kalimantan Tengah - Barito Selatan,Kalimantan Tengah,Barito Selatan,2.09,2.09,0.0,5.73,Rendah
+4,2024-10-19,Kalimantan Tengah - Barito Selatan,Kalimantan Tengah,Barito Selatan,1.21,1.21,0.0,5.28,Rendah
+5,2024-10-20,Kalimantan Tengah - Barito Selatan,Kalimantan Tengah,Barito Selatan,1.61,1.61,0.0,6.07,Rendah
+6,2024-10-21,Kalimantan Tengah - Barito Selatan,Kalimantan Tengah,Barito Selatan,1.19,1.19,0.0,6.01,Rendah
+7,2024-10-22,Kalimantan Tengah - Barito Selatan,Kalimantan Tengah,Barito Selatan,0.59,0.59,0.0,6.03,Rendah
+1,2024-10-16,Kalimantan Tengah - Kapuas,Kalimantan Tengah,Kapuas,0.14,0.14,0.0,0.88,Rendah
+2,2024-10-17,Kalimantan Tengah - Kapuas,Kalimantan Tengah,Kapuas,0.04,0.04,0.0,0.94,Rendah
+3,2024-10-18,Kalimantan Tengah - Kapuas,Kalimantan Tengah,Kapuas,0.42,0.42,0.0,1.46,Rendah
+4,2024-10-19,Kalimantan Tengah - Kapuas,Kalimantan Tengah,Kapuas,0.1,0.1,0.0,1.24,Rendah
+5,2024-10-20,Kalimantan Tengah - Kapuas,Kalimantan Tengah,Kapuas,0.07,0.07,0.0,1.3,Rendah
+6,2024-10-21,Kalimantan Tengah - Kapuas,Kalimantan Tengah,Kapuas,0.09,0.09,0.0,1.41,Rendah
+7,2024-10-22,Kalimantan Tengah - Kapuas,Kalimantan Tengah,Kapuas,0.53,0.53,0.0,2.07,Rendah
+1,2024-10-16,Kalimantan Tengah - Katingan,Kalimantan Tengah,Katingan,3.61,3.61,0.0,12.45,Rendah
+2,2024-10-17,Kalimantan Tengah - Katingan,Kalimantan Tengah,Katingan,8.48,8.48,0.0,19.89,Tinggi
+3,2024-10-18,Kalimantan Tengah - Katingan,Kalimantan Tengah,Katingan,6.2,6.2,0.0,19.46,Sedang
+4,2024-10-19,Kalimantan Tengah - Katingan,Kalimantan Tengah,Katingan,6.63,6.63,0.0,21.54,Sedang
+5,2024-10-20,Kalimantan Tengah - Katingan,Kalimantan Tengah,Katingan,4.73,4.73,0.0,21.14,Sedang
+6,2024-10-21,Kalimantan Tengah - Katingan,Kalimantan Tengah,Katingan,7.15,7.15,0.0,24.78,Sedang
+7,2024-10-22,Kalimantan Tengah - Katingan,Kalimantan Tengah,Katingan,8.06,8.06,0.0,27.93,Tinggi
+1,2024-10-16,Kalimantan Tengah - Kotawaringin Barat,Kalimantan Tengah,Kotawaringin Barat,0.13,0.13,0.0,0.91,Rendah
+2,2024-10-17,Kalimantan Tengah - Kotawaringin Barat,Kalimantan Tengah,Kotawaringin Barat,0.11,0.11,0.0,1.08,Rendah
+3,2024-10-18,Kalimantan Tengah - Kotawaringin Barat,Kalimantan Tengah,Kotawaringin Barat,0.09,0.09,0.0,1.19,Rendah
+4,2024-10-19,Kalimantan Tengah - Kotawaringin Barat,Kalimantan Tengah,Kotawaringin Barat,0.0,0.0,0.0,1.22,Rendah
+5,2024-10-20,Kalimantan Tengah - Kotawaringin Barat,Kalimantan Tengah,Kotawaringin Barat,0.08,0.08,0.0,1.41,Rendah
+6,2024-10-21,Kalimantan Tengah - Kotawaringin Barat,Kalimantan Tengah,Kotawaringin Barat,0.1,0.1,0.0,1.52,Rendah
+7,2024-10-22,Kalimantan Tengah - Kotawaringin Barat,Kalimantan Tengah,Kotawaringin Barat,0.13,0.13,0.0,1.77,Rendah
+1,2024-10-16,Kalimantan Tengah - Kotawaringin Timur,Kalimantan Tengah,Kotawaringin Timur,1.36,1.36,0.0,6.59,Rendah
+2,2024-10-17,Kalimantan Tengah - Kotawaringin Timur,Kalimantan Tengah,Kotawaringin Timur,3.72,3.72,0.0,10.42,Rendah
+3,2024-10-18,Kalimantan Tengah - Kotawaringin Timur,Kalimantan Tengah,Kotawaringin Timur,4.67,4.67,0.0,12.51,Sedang
+4,2024-10-19,Kalimantan Tengah - Kotawaringin Timur,Kalimantan Tengah,Kotawaringin Timur,4.05,4.05,0.0,12.87,Sedang
+5,2024-10-20,Kalimantan Tengah - Kotawaringin Timur,Kalimantan Tengah,Kotawaringin Timur,3.86,3.86,0.0,13.5,Rendah
+6,2024-10-21,Kalimantan Tengah - Kotawaringin Timur,Kalimantan Tengah,Kotawaringin Timur,3.08,3.08,0.0,13.51,Rendah
+7,2024-10-22,Kalimantan Tengah - Kotawaringin Timur,Kalimantan Tengah,Kotawaringin Timur,2.59,2.59,0.0,14.3,Rendah
+1,2024-10-16,Kalimantan Tengah - Palangka Raya,Kalimantan Tengah,Palangka Raya,1.48,1.48,0.0,5.1,Rendah
+2,2024-10-17,Kalimantan Tengah - Palangka Raya,Kalimantan Tengah,Palangka Raya,4.02,4.02,0.0,8.6,Sedang
+3,2024-10-18,Kalimantan Tengah - Palangka Raya,Kalimantan Tengah,Palangka Raya,3.1,3.1,0.0,8.43,Rendah
+4,2024-10-19,Kalimantan Tengah - Palangka Raya,Kalimantan Tengah,Palangka Raya,0.95,0.95,0.0,6.92,Rendah
+5,2024-10-20,Kalimantan Tengah - Palangka Raya,Kalimantan Tengah,Palangka Raya,2.3,2.3,0.0,8.82,Rendah
+6,2024-10-21,Kalimantan Tengah - Palangka Raya,Kalimantan Tengah,Palangka Raya,2.05,2.05,0.0,9.09,Rendah
+7,2024-10-22,Kalimantan Tengah - Palangka Raya,Kalimantan Tengah,Palangka Raya,1.11,1.11,0.0,9.08,Rendah
+1,2024-10-16,Kalimantan Tengah - Pulang Pisau,Kalimantan Tengah,Pulang Pisau,0.32,0.32,0.0,1.56,Rendah
+2,2024-10-17,Kalimantan Tengah - Pulang Pisau,Kalimantan Tengah,Pulang Pisau,1.74,1.74,0.21,3.29,Rendah
+3,2024-10-18,Kalimantan Tengah - Pulang Pisau,Kalimantan Tengah,Pulang Pisau,0.32,0.32,0.0,2.09,Rendah
+4,2024-10-19,Kalimantan Tengah - Pulang Pisau,Kalimantan Tengah,Pulang Pisau,0.78,0.78,0.0,2.74,Rendah
+5,2024-10-20,Kalimantan Tengah - Pulang Pisau,Kalimantan Tengah,Pulang Pisau,0.17,0.17,0.0,2.31,Rendah
+6,2024-10-21,Kalimantan Tengah - Pulang Pisau,Kalimantan Tengah,Pulang Pisau,0.86,0.86,0.0,3.16,Rendah
+7,2024-10-22,Kalimantan Tengah - Pulang Pisau,Kalimantan Tengah,Pulang Pisau,0.81,0.81,0.0,3.42,Rendah
+1,2024-10-16,Kalimantan Tengah - Seruyan,Kalimantan Tengah,Seruyan,0.48,0.48,0.0,2.42,Rendah
+2,2024-10-17,Kalimantan Tengah - Seruyan,Kalimantan Tengah,Seruyan,0.91,0.91,0.0,3.35,Rendah
+3,2024-10-18,Kalimantan Tengah - Seruyan,Kalimantan Tengah,Seruyan,0.52,0.52,0.0,3.34,Rendah
+4,2024-10-19,Kalimantan Tengah - Seruyan,Kalimantan Tengah,Seruyan,0.93,0.93,0.0,4.07,Rendah
+5,2024-10-20,Kalimantan Tengah - Seruyan,Kalimantan Tengah,Seruyan,1.03,1.03,0.0,4.46,Rendah
+6,2024-10-21,Kalimantan Tengah - Seruyan,Kalimantan Tengah,Seruyan,0.39,0.39,0.0,4.08,Rendah
+7,2024-10-22,Kalimantan Tengah - Seruyan,Kalimantan Tengah,Seruyan,0.88,0.88,0.0,5.09,Rendah
+1,2024-10-16,Kalimantan Timur - Berau,Kalimantan Timur,Berau,0.0,0.0,0.0,0.07,Rendah
+2,2024-10-17,Kalimantan Timur - Berau,Kalimantan Timur,Berau,0.0,0.0,0.0,0.07,Rendah
+3,2024-10-18,Kalimantan Timur - Berau,Kalimantan Timur,Berau,0.0,0.0,0.0,0.07,Rendah
+4,2024-10-19,Kalimantan Timur - Berau,Kalimantan Timur,Berau,0.0,0.0,0.0,0.07,Rendah
+5,2024-10-20,Kalimantan Timur - Berau,Kalimantan Timur,Berau,0.0,0.0,0.0,0.08,Rendah
+6,2024-10-21,Kalimantan Timur - Berau,Kalimantan Timur,Berau,0.0,0.0,0.0,0.08,Rendah
+7,2024-10-22,Kalimantan Timur - Berau,Kalimantan Timur,Berau,0.01,0.01,0.0,0.11,Rendah
+1,2024-10-16,Kalimantan Timur - Kutai Kartanegara,Kalimantan Timur,Kutai Kartanegara,0.18,0.18,0.0,1.67,Rendah
+2,2024-10-17,Kalimantan Timur - Kutai Kartanegara,Kalimantan Timur,Kutai Kartanegara,0.57,0.57,0.0,2.45,Rendah
+3,2024-10-18,Kalimantan Timur - Kutai Kartanegara,Kalimantan Timur,Kutai Kartanegara,0.76,0.76,0.0,2.94,Rendah
+4,2024-10-19,Kalimantan Timur - Kutai Kartanegara,Kalimantan Timur,Kutai Kartanegara,0.76,0.76,0.0,3.21,Rendah
+5,2024-10-20,Kalimantan Timur - Kutai Kartanegara,Kalimantan Timur,Kutai Kartanegara,0.2,0.2,0.0,2.87,Rendah
+6,2024-10-21,Kalimantan Timur - Kutai Kartanegara,Kalimantan Timur,Kutai Kartanegara,0.24,0.24,0.0,3.11,Rendah
+7,2024-10-22,Kalimantan Timur - Kutai Kartanegara,Kalimantan Timur,Kutai Kartanegara,0.24,0.24,0.0,3.5,Rendah
+1,2024-10-16,Kalimantan Timur - Kutai Timur,Kalimantan Timur,Kutai Timur,0.12,0.12,0.0,1.76,Rendah
+2,2024-10-17,Kalimantan Timur - Kutai Timur,Kalimantan Timur,Kutai Timur,0.19,0.19,0.0,2.31,Rendah
+3,2024-10-18,Kalimantan Timur - Kutai Timur,Kalimantan Timur,Kutai Timur,0.23,0.23,0.0,2.72,Rendah
+4,2024-10-19,Kalimantan Timur - Kutai Timur,Kalimantan Timur,Kutai Timur,0.96,0.96,0.0,3.76,Rendah
+5,2024-10-20,Kalimantan Timur - Kutai Timur,Kalimantan Timur,Kutai Timur,0.15,0.15,0.0,3.23,Rendah
+6,2024-10-21,Kalimantan Timur - Kutai Timur,Kalimantan Timur,Kutai Timur,0.17,0.17,0.0,3.49,Rendah
+7,2024-10-22,Kalimantan Timur - Kutai Timur,Kalimantan Timur,Kutai Timur,1.01,1.01,0.0,4.76,Rendah
+1,2024-10-16,Kalimantan Timur - Paser,Kalimantan Timur,Paser,0.03,0.03,0.0,0.21,Rendah
+2,2024-10-17,Kalimantan Timur - Paser,Kalimantan Timur,Paser,0.04,0.04,0.0,0.23,Rendah
+3,2024-10-18,Kalimantan Timur - Paser,Kalimantan Timur,Paser,0.03,0.03,0.0,0.25,Rendah
+4,2024-10-19,Kalimantan Timur - Paser,Kalimantan Timur,Paser,0.53,0.53,0.31,0.75,Rendah
+5,2024-10-20,Kalimantan Timur - Paser,Kalimantan Timur,Paser,0.03,0.03,0.0,0.26,Rendah
+6,2024-10-21,Kalimantan Timur - Paser,Kalimantan Timur,Paser,0.04,0.04,0.0,0.28,Rendah
+7,2024-10-22,Kalimantan Timur - Paser,Kalimantan Timur,Paser,0.03,0.03,0.0,0.34,Rendah
+1,2024-10-16,Kepulauan Bangka Belitung - Bangka,Kepulauan Bangka Belitung,Bangka,0.07,0.07,0.0,0.6,Rendah
+2,2024-10-17,Kepulauan Bangka Belitung - Bangka,Kepulauan Bangka Belitung,Bangka,0.06,0.06,0.0,0.72,Rendah
+3,2024-10-18,Kepulauan Bangka Belitung - Bangka,Kepulauan Bangka Belitung,Bangka,0.04,0.04,0.0,0.8,Rendah
+4,2024-10-19,Kepulauan Bangka Belitung - Bangka,Kepulauan Bangka Belitung,Bangka,0.4,0.4,0.0,1.24,Rendah
+5,2024-10-20,Kepulauan Bangka Belitung - Bangka,Kepulauan Bangka Belitung,Bangka,0.05,0.05,0.0,0.96,Rendah
+6,2024-10-21,Kepulauan Bangka Belitung - Bangka,Kepulauan Bangka Belitung,Bangka,0.07,0.07,0.0,1.05,Rendah
+7,2024-10-22,Kepulauan Bangka Belitung - Bangka,Kepulauan Bangka Belitung,Bangka,0.07,0.07,0.0,1.2,Rendah
+1,2024-10-16,Kepulauan Bangka Belitung - Belitung,Kepulauan Bangka Belitung,Belitung,0.0,0.0,0.0,0.01,Rendah
+2,2024-10-17,Kepulauan Bangka Belitung - Belitung,Kepulauan Bangka Belitung,Belitung,0.0,0.0,0.0,0.01,Rendah
+3,2024-10-18,Kepulauan Bangka Belitung - Belitung,Kepulauan Bangka Belitung,Belitung,0.0,0.0,0.0,0.01,Rendah
+4,2024-10-19,Kepulauan Bangka Belitung - Belitung,Kepulauan Bangka Belitung,Belitung,0.0,0.0,0.0,0.01,Rendah
+5,2024-10-20,Kepulauan Bangka Belitung - Belitung,Kepulauan Bangka Belitung,Belitung,0.0,0.0,0.0,0.01,Rendah
+6,2024-10-21,Kepulauan Bangka Belitung - Belitung,Kepulauan Bangka Belitung,Belitung,0.0,0.0,0.0,0.02,Rendah
+7,2024-10-22,Kepulauan Bangka Belitung - Belitung,Kepulauan Bangka Belitung,Belitung,0.0,0.0,0.0,0.02,Rendah
+1,2024-10-16,Lampung - Lampung Timur,Lampung,Lampung Timur,0.0,0.0,0.0,0.12,Rendah
+2,2024-10-17,Lampung - Lampung Timur,Lampung,Lampung Timur,0.01,0.01,0.0,0.14,Rendah
+3,2024-10-18,Lampung - Lampung Timur,Lampung,Lampung Timur,0.01,0.01,0.0,0.16,Rendah
+4,2024-10-19,Lampung - Lampung Timur,Lampung,Lampung Timur,0.0,0.0,0.0,0.17,Rendah
+5,2024-10-20,Lampung - Lampung Timur,Lampung,Lampung Timur,0.0,0.0,0.0,0.19,Rendah
+6,2024-10-21,Lampung - Lampung Timur,Lampung,Lampung Timur,0.0,0.0,0.0,0.2,Rendah
+7,2024-10-22,Lampung - Lampung Timur,Lampung,Lampung Timur,0.01,0.01,0.0,0.24,Rendah
+1,2024-10-16,Lampung - Mesuji,Lampung,Mesuji,0.3,0.3,0.0,1.97,Rendah
+2,2024-10-17,Lampung - Mesuji,Lampung,Mesuji,0.6,0.6,0.0,2.72,Rendah
+3,2024-10-18,Lampung - Mesuji,Lampung,Mesuji,0.34,0.34,0.0,2.8,Rendah
+4,2024-10-19,Lampung - Mesuji,Lampung,Mesuji,0.35,0.35,0.0,3.1,Rendah
+5,2024-10-20,Lampung - Mesuji,Lampung,Mesuji,1.27,1.27,0.0,4.26,Rendah
+6,2024-10-21,Lampung - Mesuji,Lampung,Mesuji,0.82,0.82,0.0,4.04,Rendah
+7,2024-10-22,Lampung - Mesuji,Lampung,Mesuji,1.15,1.15,0.0,4.82,Rendah
+1,2024-10-16,Lampung - Tulang Bawang,Lampung,Tulang Bawang,0.05,0.05,0.0,0.98,Rendah
+2,2024-10-17,Lampung - Tulang Bawang,Lampung,Tulang Bawang,0.04,0.04,0.0,1.27,Rendah
+3,2024-10-18,Lampung - Tulang Bawang,Lampung,Tulang Bawang,0.07,0.07,0.0,1.52,Rendah
+4,2024-10-19,Lampung - Tulang Bawang,Lampung,Tulang Bawang,0.51,0.51,0.0,2.15,Rendah
+5,2024-10-20,Lampung - Tulang Bawang,Lampung,Tulang Bawang,0.03,0.03,0.0,1.84,Rendah
+6,2024-10-21,Lampung - Tulang Bawang,Lampung,Tulang Bawang,0.05,0.05,0.0,2.01,Rendah
+7,2024-10-22,Lampung - Tulang Bawang,Lampung,Tulang Bawang,0.47,0.47,0.0,2.66,Rendah
+1,2024-10-16,Papua Selatan - Mappi,Papua Selatan,Mappi,0.06,0.06,0.0,0.43,Rendah
+2,2024-10-17,Papua Selatan - Mappi,Papua Selatan,Mappi,0.46,0.46,0.03,0.9,Rendah
+3,2024-10-18,Papua Selatan - Mappi,Papua Selatan,Mappi,0.06,0.06,0.0,0.55,Rendah
+4,2024-10-19,Papua Selatan - Mappi,Papua Selatan,Mappi,0.01,0.01,0.0,0.54,Rendah
+5,2024-10-20,Papua Selatan - Mappi,Papua Selatan,Mappi,0.05,0.05,0.0,0.62,Rendah
+6,2024-10-21,Papua Selatan - Mappi,Papua Selatan,Mappi,0.05,0.05,0.0,0.65,Rendah
+7,2024-10-22,Papua Selatan - Mappi,Papua Selatan,Mappi,0.08,0.08,0.0,0.79,Rendah
+1,2024-10-16,Papua Selatan - Merauke,Papua Selatan,Merauke,0.41,0.41,0.0,1.12,Rendah
+2,2024-10-17,Papua Selatan - Merauke,Papua Selatan,Merauke,0.06,0.06,0.0,0.95,Rendah
+3,2024-10-18,Papua Selatan - Merauke,Papua Selatan,Merauke,0.08,0.08,0.0,1.1,Rendah
+4,2024-10-19,Papua Selatan - Merauke,Papua Selatan,Merauke,0.04,0.04,0.0,1.18,Rendah
+5,2024-10-20,Papua Selatan - Merauke,Papua Selatan,Merauke,0.08,0.08,0.0,1.32,Rendah
+6,2024-10-21,Papua Selatan - Merauke,Papua Selatan,Merauke,0.08,0.08,0.0,1.42,Rendah
+7,2024-10-22,Papua Selatan - Merauke,Papua Selatan,Merauke,0.12,0.12,0.0,1.65,Rendah
+1,2024-10-16,Riau - Bengkalis,Riau,Bengkalis,0.29,0.29,0.0,2.17,Rendah
+2,2024-10-17,Riau - Bengkalis,Riau,Bengkalis,0.21,0.21,0.0,2.67,Rendah
+3,2024-10-18,Riau - Bengkalis,Riau,Bengkalis,0.56,0.56,0.0,3.44,Rendah
+4,2024-10-19,Riau - Bengkalis,Riau,Bengkalis,0.19,0.19,0.0,3.44,Rendah
+5,2024-10-20,Riau - Bengkalis,Riau,Bengkalis,1.01,1.01,0.0,4.57,Rendah
+6,2024-10-21,Riau - Bengkalis,Riau,Bengkalis,0.26,0.26,0.0,4.12,Rendah
+7,2024-10-22,Riau - Bengkalis,Riau,Bengkalis,1.16,1.16,0.0,5.49,Rendah
+1,2024-10-16,Riau - Dumai,Riau,Dumai,0.69,0.69,0.0,4.05,Rendah
+2,2024-10-17,Riau - Dumai,Riau,Dumai,1.11,1.11,0.0,5.46,Rendah
+3,2024-10-18,Riau - Dumai,Riau,Dumai,1.72,1.72,0.0,6.85,Rendah
+4,2024-10-19,Riau - Dumai,Riau,Dumai,1.72,1.72,0.0,7.48,Rendah
+5,2024-10-20,Riau - Dumai,Riau,Dumai,2.08,2.08,0.0,8.43,Rendah
+6,2024-10-21,Riau - Dumai,Riau,Dumai,0.52,0.52,0.0,7.38,Rendah
+7,2024-10-22,Riau - Dumai,Riau,Dumai,2.06,2.06,0.0,9.75,Rendah
+1,2024-10-16,Riau - Indragiri Hilir,Riau,Indragiri Hilir,0.03,0.03,0.0,0.27,Rendah
+2,2024-10-17,Riau - Indragiri Hilir,Riau,Indragiri Hilir,0.05,0.05,0.0,0.32,Rendah
+3,2024-10-18,Riau - Indragiri Hilir,Riau,Indragiri Hilir,0.02,0.02,0.0,0.31,Rendah
+4,2024-10-19,Riau - Indragiri Hilir,Riau,Indragiri Hilir,0.01,0.01,0.0,0.32,Rendah
+5,2024-10-20,Riau - Indragiri Hilir,Riau,Indragiri Hilir,0.02,0.02,0.0,0.34,Rendah
+6,2024-10-21,Riau - Indragiri Hilir,Riau,Indragiri Hilir,0.06,0.06,0.0,0.39,Rendah
+7,2024-10-22,Riau - Indragiri Hilir,Riau,Indragiri Hilir,0.04,0.04,0.0,0.46,Rendah
+1,2024-10-16,Riau - Kampar,Riau,Kampar,5.94,5.94,0.0,14.0,Sedang
+2,2024-10-17,Riau - Kampar,Riau,Kampar,6.82,6.82,0.0,17.0,Sedang
+3,2024-10-18,Riau - Kampar,Riau,Kampar,10.83,10.83,0.0,22.69,Tinggi
+4,2024-10-19,Riau - Kampar,Riau,Kampar,9.48,9.48,0.0,22.84,Tinggi
+5,2024-10-20,Riau - Kampar,Riau,Kampar,6.54,6.54,0.0,21.06,Sedang
+6,2024-10-21,Riau - Kampar,Riau,Kampar,5.94,5.94,0.0,21.74,Sedang
+7,2024-10-22,Riau - Kampar,Riau,Kampar,5.81,5.81,0.0,23.49,Sedang
+1,2024-10-16,Riau - Kepulauan Meranti,Riau,Kepulauan Meranti,0.24,0.24,0.0,0.94,Rendah
+2,2024-10-17,Riau - Kepulauan Meranti,Riau,Kepulauan Meranti,0.13,0.13,0.0,0.99,Rendah
+3,2024-10-18,Riau - Kepulauan Meranti,Riau,Kepulauan Meranti,0.09,0.09,0.0,1.05,Rendah
+4,2024-10-19,Riau - Kepulauan Meranti,Riau,Kepulauan Meranti,0.16,0.16,0.0,1.2,Rendah
+5,2024-10-20,Riau - Kepulauan Meranti,Riau,Kepulauan Meranti,0.51,0.51,0.0,1.64,Rendah
+6,2024-10-21,Riau - Kepulauan Meranti,Riau,Kepulauan Meranti,0.62,0.62,0.0,1.82,Rendah
+7,2024-10-22,Riau - Kepulauan Meranti,Riau,Kepulauan Meranti,0.61,0.61,0.0,2.01,Rendah
+1,2024-10-16,Riau - Pelalawan,Riau,Pelalawan,1.44,1.44,0.0,5.79,Rendah
+2,2024-10-17,Riau - Pelalawan,Riau,Pelalawan,4.67,4.67,0.0,10.18,Sedang
+3,2024-10-18,Riau - Pelalawan,Riau,Pelalawan,1.86,1.86,0.0,8.28,Rendah
+4,2024-10-19,Riau - Pelalawan,Riau,Pelalawan,2.61,2.61,0.0,9.8,Rendah
+5,2024-10-20,Riau - Pelalawan,Riau,Pelalawan,4.07,4.07,0.0,11.95,Sedang
+6,2024-10-21,Riau - Pelalawan,Riau,Pelalawan,2.73,2.73,0.0,11.19,Rendah
+7,2024-10-22,Riau - Pelalawan,Riau,Pelalawan,3.64,3.64,0.0,13.21,Rendah
+1,2024-10-16,Riau - Rokan Hilir,Riau,Rokan Hilir,0.08,0.08,0.0,0.86,Rendah
+2,2024-10-17,Riau - Rokan Hilir,Riau,Rokan Hilir,0.09,0.09,0.0,1.09,Rendah
+3,2024-10-18,Riau - Rokan Hilir,Riau,Rokan Hilir,0.06,0.06,0.0,1.22,Rendah
+4,2024-10-19,Riau - Rokan Hilir,Riau,Rokan Hilir,0.08,0.08,0.0,1.37,Rendah
+5,2024-10-20,Riau - Rokan Hilir,Riau,Rokan Hilir,0.63,0.63,0.0,2.05,Rendah
+6,2024-10-21,Riau - Rokan Hilir,Riau,Rokan Hilir,0.45,0.45,0.0,1.98,Rendah
+7,2024-10-22,Riau - Rokan Hilir,Riau,Rokan Hilir,0.07,0.07,0.0,1.8,Rendah
+1,2024-10-16,Riau - Siak,Riau,Siak,2.41,2.41,0.0,7.43,Rendah
+2,2024-10-17,Riau - Siak,Riau,Siak,4.73,4.73,0.0,11.11,Sedang
+3,2024-10-18,Riau - Siak,Riau,Siak,4.43,4.43,0.0,11.98,Sedang
+4,2024-10-19,Riau - Siak,Riau,Siak,2.18,2.18,0.0,10.6,Rendah
+5,2024-10-20,Riau - Siak,Riau,Siak,3.86,3.86,0.0,13.12,Rendah
+6,2024-10-21,Riau - Siak,Riau,Siak,3.05,3.05,0.0,13.02,Rendah
+7,2024-10-22,Riau - Siak,Riau,Siak,4.24,4.24,0.0,15.43,Sedang
+1,2024-10-16,Sumatera Barat - Dharmasraya,Sumatera Barat,Dharmasraya,0.38,0.38,0.0,2.92,Rendah
+2,2024-10-17,Sumatera Barat - Dharmasraya,Sumatera Barat,Dharmasraya,0.88,0.88,0.0,4.22,Rendah
+3,2024-10-18,Sumatera Barat - Dharmasraya,Sumatera Barat,Dharmasraya,0.82,0.82,0.0,4.77,Rendah
+4,2024-10-19,Sumatera Barat - Dharmasraya,Sumatera Barat,Dharmasraya,0.29,0.29,0.0,4.76,Rendah
+5,2024-10-20,Sumatera Barat - Dharmasraya,Sumatera Barat,Dharmasraya,0.7,0.7,0.0,5.63,Rendah
+6,2024-10-21,Sumatera Barat - Dharmasraya,Sumatera Barat,Dharmasraya,0.86,0.86,0.0,6.19,Rendah
+7,2024-10-22,Sumatera Barat - Dharmasraya,Sumatera Barat,Dharmasraya,0.28,0.28,0.0,6.24,Rendah
+1,2024-10-16,Sumatera Barat - Pasaman Barat,Sumatera Barat,Pasaman Barat,0.18,0.18,0.0,1.87,Rendah
+2,2024-10-17,Sumatera Barat - Pasaman Barat,Sumatera Barat,Pasaman Barat,0.79,0.79,0.0,2.95,Rendah
+3,2024-10-18,Sumatera Barat - Pasaman Barat,Sumatera Barat,Pasaman Barat,0.26,0.26,0.0,2.8,Rendah
+4,2024-10-19,Sumatera Barat - Pasaman Barat,Sumatera Barat,Pasaman Barat,0.17,0.17,0.0,3.03,Rendah
+5,2024-10-20,Sumatera Barat - Pasaman Barat,Sumatera Barat,Pasaman Barat,0.03,0.03,0.0,3.17,Rendah
+6,2024-10-21,Sumatera Barat - Pasaman Barat,Sumatera Barat,Pasaman Barat,1.29,1.29,0.0,4.68,Rendah
+7,2024-10-22,Sumatera Barat - Pasaman Barat,Sumatera Barat,Pasaman Barat,0.22,0.22,0.0,4.03,Rendah
+1,2024-10-16,Sumatera Barat - Pesisir Selatan,Sumatera Barat,Pesisir Selatan,0.02,0.02,0.0,0.6,Rendah
+2,2024-10-17,Sumatera Barat - Pesisir Selatan,Sumatera Barat,Pesisir Selatan,0.03,0.03,0.0,0.77,Rendah
+3,2024-10-18,Sumatera Barat - Pesisir Selatan,Sumatera Barat,Pesisir Selatan,0.02,0.02,0.0,0.89,Rendah
+4,2024-10-19,Sumatera Barat - Pesisir Selatan,Sumatera Barat,Pesisir Selatan,0.02,0.02,0.0,1.0,Rendah
+5,2024-10-20,Sumatera Barat - Pesisir Selatan,Sumatera Barat,Pesisir Selatan,0.03,0.03,0.0,1.11,Rendah
+6,2024-10-21,Sumatera Barat - Pesisir Selatan,Sumatera Barat,Pesisir Selatan,0.05,0.05,0.0,1.21,Rendah
+7,2024-10-22,Sumatera Barat - Pesisir Selatan,Sumatera Barat,Pesisir Selatan,0.04,0.04,0.0,1.35,Rendah
+1,2024-10-16,Sumatera Selatan - Banyuasin,Sumatera Selatan,Banyuasin,0.96,0.96,0.0,4.81,Rendah
+2,2024-10-17,Sumatera Selatan - Banyuasin,Sumatera Selatan,Banyuasin,1.06,1.06,0.0,6.11,Rendah
+3,2024-10-18,Sumatera Selatan - Banyuasin,Sumatera Selatan,Banyuasin,1.03,1.03,0.0,6.99,Rendah
+4,2024-10-19,Sumatera Selatan - Banyuasin,Sumatera Selatan,Banyuasin,1.95,1.95,0.0,8.7,Rendah
+5,2024-10-20,Sumatera Selatan - Banyuasin,Sumatera Selatan,Banyuasin,0.97,0.97,0.0,8.39,Rendah
+6,2024-10-21,Sumatera Selatan - Banyuasin,Sumatera Selatan,Banyuasin,1.18,1.18,0.0,9.22,Rendah
+7,2024-10-22,Sumatera Selatan - Banyuasin,Sumatera Selatan,Banyuasin,1.39,1.39,0.0,10.32,Rendah
+1,2024-10-16,Sumatera Selatan - Muara Enim,Sumatera Selatan,Muara Enim,0.05,0.05,0.0,0.95,Rendah
+2,2024-10-17,Sumatera Selatan - Muara Enim,Sumatera Selatan,Muara Enim,0.48,0.48,0.0,1.61,Rendah
+3,2024-10-18,Sumatera Selatan - Muara Enim,Sumatera Selatan,Muara Enim,0.12,0.12,0.0,1.44,Rendah
+4,2024-10-19,Sumatera Selatan - Muara Enim,Sumatera Selatan,Muara Enim,0.12,0.12,0.0,1.6,Rendah
+5,2024-10-20,Sumatera Selatan - Muara Enim,Sumatera Selatan,Muara Enim,0.59,0.59,0.0,2.21,Rendah
+6,2024-10-21,Sumatera Selatan - Muara Enim,Sumatera Selatan,Muara Enim,0.13,0.13,0.0,1.88,Rendah
+7,2024-10-22,Sumatera Selatan - Muara Enim,Sumatera Selatan,Muara Enim,0.12,0.12,0.0,2.1,Rendah
+1,2024-10-16,Sumatera Selatan - Musi Banyuasin,Sumatera Selatan,Musi Banyuasin,0.17,0.17,0.0,1.39,Rendah
+2,2024-10-17,Sumatera Selatan - Musi Banyuasin,Sumatera Selatan,Musi Banyuasin,0.21,0.21,0.0,1.76,Rendah
+3,2024-10-18,Sumatera Selatan - Musi Banyuasin,Sumatera Selatan,Musi Banyuasin,0.15,0.15,0.0,1.93,Rendah
+4,2024-10-19,Sumatera Selatan - Musi Banyuasin,Sumatera Selatan,Musi Banyuasin,0.71,0.71,0.0,2.69,Rendah
+5,2024-10-20,Sumatera Selatan - Musi Banyuasin,Sumatera Selatan,Musi Banyuasin,0.06,0.06,0.0,2.23,Rendah
+6,2024-10-21,Sumatera Selatan - Musi Banyuasin,Sumatera Selatan,Musi Banyuasin,0.24,0.24,0.0,2.56,Rendah
+7,2024-10-22,Sumatera Selatan - Musi Banyuasin,Sumatera Selatan,Musi Banyuasin,0.27,0.27,0.0,2.93,Rendah
+1,2024-10-16,Sumatera Selatan - Ogan Ilir,Sumatera Selatan,Ogan Ilir,0.75,0.75,0.0,3.04,Rendah
+2,2024-10-17,Sumatera Selatan - Ogan Ilir,Sumatera Selatan,Ogan Ilir,2.54,2.54,0.0,5.44,Rendah
+3,2024-10-18,Sumatera Selatan - Ogan Ilir,Sumatera Selatan,Ogan Ilir,2.29,2.29,0.0,5.61,Rendah
+4,2024-10-19,Sumatera Selatan - Ogan Ilir,Sumatera Selatan,Ogan Ilir,0.94,0.94,0.0,4.62,Rendah
+5,2024-10-20,Sumatera Selatan - Ogan Ilir,Sumatera Selatan,Ogan Ilir,0.96,0.96,0.0,4.95,Rendah
+6,2024-10-21,Sumatera Selatan - Ogan Ilir,Sumatera Selatan,Ogan Ilir,0.71,0.71,0.0,5.02,Rendah
+7,2024-10-22,Sumatera Selatan - Ogan Ilir,Sumatera Selatan,Ogan Ilir,1.58,1.58,0.0,6.52,Rendah
+1,2024-10-16,Sumatera Selatan - Ogan Komering Ilir,Sumatera Selatan,Ogan Komering Ilir,1.6,1.6,0.0,4.75,Rendah
+2,2024-10-17,Sumatera Selatan - Ogan Komering Ilir,Sumatera Selatan,Ogan Komering Ilir,3.2,3.2,0.0,7.13,Rendah
+3,2024-10-18,Sumatera Selatan - Ogan Komering Ilir,Sumatera Selatan,Ogan Komering Ilir,0.99,0.99,0.0,5.54,Rendah
+4,2024-10-19,Sumatera Selatan - Ogan Komering Ilir,Sumatera Selatan,Ogan Komering Ilir,3.42,3.42,0.0,8.48,Rendah
+5,2024-10-20,Sumatera Selatan - Ogan Komering Ilir,Sumatera Selatan,Ogan Komering Ilir,1.25,1.25,0.0,6.79,Rendah
+6,2024-10-21,Sumatera Selatan - Ogan Komering Ilir,Sumatera Selatan,Ogan Komering Ilir,2.8,2.8,0.0,8.74,Rendah
+7,2024-10-22,Sumatera Selatan - Ogan Komering Ilir,Sumatera Selatan,Ogan Komering Ilir,2.21,2.21,0.0,8.98,Rendah
+1,2024-10-16,Sumatera Utara - Asahan,Sumatera Utara,Asahan,0.01,0.01,0.0,0.15,Rendah
+2,2024-10-17,Sumatera Utara - Asahan,Sumatera Utara,Asahan,0.01,0.01,0.0,0.16,Rendah
+3,2024-10-18,Sumatera Utara - Asahan,Sumatera Utara,Asahan,0.0,0.0,0.0,0.16,Rendah
+4,2024-10-19,Sumatera Utara - Asahan,Sumatera Utara,Asahan,0.01,0.01,0.0,0.16,Rendah
+5,2024-10-20,Sumatera Utara - Asahan,Sumatera Utara,Asahan,0.01,0.01,0.0,0.17,Rendah
+6,2024-10-21,Sumatera Utara - Asahan,Sumatera Utara,Asahan,0.01,0.01,0.0,0.18,Rendah
+7,2024-10-22,Sumatera Utara - Asahan,Sumatera Utara,Asahan,0.02,0.02,0.0,0.24,Rendah
+1,2024-10-16,Sumatera Utara - Labuhanbatu,Sumatera Utara,Labuhanbatu,0.11,0.11,0.0,1.05,Rendah
+2,2024-10-17,Sumatera Utara - Labuhanbatu,Sumatera Utara,Labuhanbatu,0.09,0.09,0.0,1.28,Rendah
+3,2024-10-18,Sumatera Utara - Labuhanbatu,Sumatera Utara,Labuhanbatu,0.11,0.11,0.0,1.5,Rendah
+4,2024-10-19,Sumatera Utara - Labuhanbatu,Sumatera Utara,Labuhanbatu,0.08,0.08,0.0,1.63,Rendah
+5,2024-10-20,Sumatera Utara - Labuhanbatu,Sumatera Utara,Labuhanbatu,0.08,0.08,0.0,1.77,Rendah
+6,2024-10-21,Sumatera Utara - Labuhanbatu,Sumatera Utara,Labuhanbatu,0.11,0.11,0.0,1.93,Rendah
+7,2024-10-22,Sumatera Utara - Labuhanbatu,Sumatera Utara,Labuhanbatu,0.62,0.62,0.0,2.7,Rendah
+1,2024-10-16,Sumatera Utara - Tapanuli Selatan,Sumatera Utara,Tapanuli Selatan,0.52,0.52,0.1,0.94,Rendah
+2,2024-10-17,Sumatera Utara - Tapanuli Selatan,Sumatera Utara,Tapanuli Selatan,0.06,0.06,0.0,0.54,Rendah
+3,2024-10-18,Sumatera Utara - Tapanuli Selatan,Sumatera Utara,Tapanuli Selatan,0.08,0.08,0.0,0.6,Rendah
+4,2024-10-19,Sumatera Utara - Tapanuli Selatan,Sumatera Utara,Tapanuli Selatan,0.03,0.03,0.0,0.6,Rendah
+5,2024-10-20,Sumatera Utara - Tapanuli Selatan,Sumatera Utara,Tapanuli Selatan,0.0,0.0,0.0,0.6,Rendah
+6,2024-10-21,Sumatera Utara - Tapanuli Selatan,Sumatera Utara,Tapanuli Selatan,0.1,0.1,0.0,0.74,Rendah
+7,2024-10-22,Sumatera Utara - Tapanuli Selatan,Sumatera Utara,Tapanuli Selatan,0.11,0.11,0.0,0.88,Rendah
